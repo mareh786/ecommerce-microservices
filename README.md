@@ -10,6 +10,8 @@ Micro Marketplace is a robust e-commerce application built on a microservices ar
 With a focus on scalability, resilience, and real-time interaction, Micro Marketplace provides a robust foundation for creating feature-rich online marketplaces.
 
 
+
+
 ### Solution Architecture
 ![Solution Architecture](docs/images/architecture/SolutionArchitecture.png)
 
