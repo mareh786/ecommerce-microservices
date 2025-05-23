@@ -30,6 +30,8 @@ With a focus on scalability, resilience, and real-time interaction, Micro Market
 - **Observability Stack:** Distributed tracing is implemented to monitor and troubleshoot requests as they traverse different microservices, using Micrometer for metrics and Zipkin for tracing. 
    Moreover, Prometheus is used for collecting metrics, and Grafana for providing a rich dashboard for visualizing and analyzing application performance data.
 
+  
+
 ### Tech Stack Used
 <div>
     <table>
